@@ -1,5 +1,5 @@
 {  https://m.me/southunitedraza1313
-  "name": "Hello Extensions",
+  "name": "Cash App",
   "description": "Base Level Extension",
   "version": "1.0",
   "manifest_version": 3,
